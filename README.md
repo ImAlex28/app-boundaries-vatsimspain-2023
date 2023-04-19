@@ -2,18 +2,22 @@
 Here are the files of the VATSPA APP sectors that were not already uploaded to the simaware.ca database.
 
 # Configurated sectors
-## LEZL_*_APP [FINISHED]
+## LEZL_*_APP (Sevilla Approach) [FINISHED]
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233064619-cb3a3fbf-c62c-4d2d-9c34-d1d241792c34.png)
-## LEST_APP [FINISHED]
+## LEST_APP (Santiago Approach) [FINISHED]
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233168751-8641a727-2d17-4f1f-96a7-c89414ffe8ee.png)
-## LEAB_APP [WIP]
+## LEAB_APP (Albacete Approach) [WIP]
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
-## LELC_APP [FINISHED]
+## LELC_APP (San Javier Approach) [FINISHED]
 Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233168603-e7689555-c65d-4842-8730-53dab6d52697.png)
+## LEZG_APP (Zaragoza Approach) [WIP]
+Sector:
+![image](https://user-images.githubusercontent.com/115694318/233182465-39cb473b-83da-4ba2-9caa-1b326ffc2452.png)
+
 
 
 # Data
