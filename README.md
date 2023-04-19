@@ -5,19 +5,25 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 ## LEZL_*_APP [FINISHED]
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233064619-cb3a3fbf-c62c-4d2d-9c34-d1d241792c34.png)
-## LEST_APP [WIP]
+## LEST_APP [FINISHED]
 Sector representated:
+![image](https://user-images.githubusercontent.com/115694318/233168751-8641a727-2d17-4f1f-96a7-c89414ffe8ee.png)
 ## LEAB_APP [WIP]
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
-## LELC_APP [WIP]
+## LELC_APP [FINISHED]
 Sector:
-![image](https://user-images.githubusercontent.com/115694318/233072584-423c0415-d3ff-4f38-9f48-637f70bc584c.png)
+![image](https://user-images.githubusercontent.com/115694318/233168603-e7689555-c65d-4842-8730-53dab6d52697.png)
 
 
+# Data
+All data on sectors (volumes, call signs, coordinates, etc.) have been obtained from the following sources:
+- https://insignia.enaire.es/ 
+- https://aip.enaire.es/AIP/
+- https://wiki.vatsimspain.es/
 
 # Disclaimer
-This repository is not official, nor is it associated with the staff of VatSim Spain in any way. This repository has been made by a user of VATSIM Spain, with the aim of contributing to the division (CID: 1558357).
+This repository is not official, nor is it associated with the staff of VATSIM Spain in any way. This repository have been made by a user of VATSIM Spain, with the aim of contributing to the division (CID: 1558357).
 
 
 
