@@ -8,7 +8,7 @@ Sector representated:
 ## LEST_APP (Santiago Approach) [FINISHED]
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233168751-8641a727-2d17-4f1f-96a7-c89414ffe8ee.png)
-## LEAB_APP (Albacete Approach) [WIP]
+## LEAB_APP (Albacete Approach) [FINISHED]
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
 Coords checked:
