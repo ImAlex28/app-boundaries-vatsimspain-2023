@@ -10,6 +10,10 @@ Sector representated:
 ## LEAB_APP [WIP]
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
+## LELC_APP [WIP]
+Sector:
+![image](https://user-images.githubusercontent.com/115694318/233072584-423c0415-d3ff-4f38-9f48-637f70bc584c.png)
+
 
 
 # Disclaimer
