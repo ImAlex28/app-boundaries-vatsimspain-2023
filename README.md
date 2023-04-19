@@ -11,6 +11,8 @@ Sector representated:
 ## LEAB_APP (Albacete Approach) [WIP]
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
+Coords checked:
+![image](https://user-images.githubusercontent.com/115694318/233199063-5ae1c43d-f52c-4a1f-8cc6-ca44024c0132.png)
 ## LELC_APP (San Javier Approach) [FINISHED]
 Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233168603-e7689555-c65d-4842-8730-53dab6d52697.png)
