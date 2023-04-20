@@ -2,6 +2,20 @@
 Here are the files of the VATSPA APP sectors that were not already uploaded to the simaware.ca database.
 
 # CONFIGURED SECTORS
+## LECB
+- LELC_APP
+
+## LECM
+- LEAB_APP
+- LEBZ_APP
+- LEST_APP
+- LETO_APP
+- LEXJ_APP
+- LEZG_APP
+- LEZL_*_APT
+
+# DETAILS
+
 ## LEZL_*_APP (Sevilla Approach)
 
 Sector representated:
@@ -72,8 +86,8 @@ geoJSON.io check:
 
 
 
-## Overview in geoJSON.io
-![image](https://user-images.githubusercontent.com/115694318/233365108-8bea48a4-ead5-4229-ae4f-c7713b259849.png)
+# Overview in geoJSON.io
+![image](https://user-images.githubusercontent.com/115694318/233420061-d70253bb-9a21-4a71-92f7-12fadcc0d60d.png)
 
 
 
