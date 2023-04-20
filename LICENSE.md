@@ -2,7 +2,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
 
-Human-Readable summary:
+Human-Readable summary
 ![image](https://user-images.githubusercontent.com/115694318/233370343-0d3073c0-2483-4ad7-b7f8-fe1c389d93fe.png)
 
 
