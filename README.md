@@ -76,7 +76,7 @@ All data on sectors (volumes, call signs, coordinates, etc.) have been obtained 
 - https://wiki.vatsimspain.es/
 
 # Disclaimer
-This repository is not official, nor is it associated with the staff of VATSIM Spain in any way. This repository have been made by a user of VATSIM Spain, with the aim of contributing to the division (CID: 1558357).
+This repository is not official, nor is it associated with the staff of VATSIM Spain in any way. This repository have been made by a user of VATSIM Spain, with the aim of contributing to the division (CID: 1558357 - Alejandro Gallegos).
 
 
 
