@@ -17,8 +17,8 @@ Sector representated:
 Sector: 
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
 
-Coordinates checked once they have been extracted from enaire and entered into the json:
-![image](https://user-images.githubusercontent.com/115694318/233199063-5ae1c43d-f52c-4a1f-8cc6-ca44024c0132.png)
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233352465-f31c99a9-c511-4301-a90f-5856b41afac3.png)
 
 ## LELC_APP (San Javier Approach) [FINISHED]
 
@@ -30,10 +30,18 @@ Sector:
 Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233182465-39cb473b-83da-4ba2-9caa-1b326ffc2452.png)
 
-## LEBZ_APP (Talavera Approach) [WIP]
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233351790-cde1816a-4bbc-4f35-b619-29f7f4d6b7a2.png)
+
+
+## LEBZ_APP (Talavera Approach) [FINISHED]
 
 Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233347235-ae458fef-340c-4936-ab2b-a0adb2a7f753.png)
+
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233354380-fe15da51-8e23-48e2-8f1a-dede835b0d45.png)
+
 
 
 
