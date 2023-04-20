@@ -1,4 +1,4 @@
-# TRACON BOUNDARIES UPDATE - VATSPA APP SECTORS [UNOFFICIAL]
+# APP SECTORS BOUNDARIES UPDATE - VATSPA vACC [UNOFFICIAL]
 Here are the files of the VATSPA APP sectors that were not already uploaded to the simaware.ca database.
 
 # CONFIGURED SECTORS
@@ -61,6 +61,15 @@ Sector:
 
 geoJSON.io check:
 ![image](https://user-images.githubusercontent.com/115694318/233365015-327a25df-d967-472a-a23a-ec0681a036e8.png)
+
+## LEXJ_APP (Santander Tower)
+
+Sector:
+![image](https://user-images.githubusercontent.com/115694318/233414914-8a980f8d-1fb9-4f43-a7be-cb1caa683adb.png)
+
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233403945-4d67738b-8892-4ee3-9420-1d837742d88d.png)
+
 
 
 ## Overview in geoJSON.io
