@@ -18,7 +18,7 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 
 ## LEZL_*_APP (Sevilla Approach)
 
-Sector representated:
+Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233064619-cb3a3fbf-c62c-4d2d-9c34-d1d241792c34.png)
 
 geoJSON.io check:
@@ -27,7 +27,7 @@ geoJSON.io check:
 
 ## LEST_APP (Santiago Approach)
 
-Sector representated:
+Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233168751-8641a727-2d17-4f1f-96a7-c89414ffe8ee.png)
 
 geoJSON.io check:
