@@ -63,7 +63,7 @@ geoJSON.io check:
 ![image](https://user-images.githubusercontent.com/115694318/233365015-327a25df-d967-472a-a23a-ec0681a036e8.png)
 
 
-## OVERVIEW OF ALL JSON on geoJSON.io
+## Overview in geoJSON.io
 ![image](https://user-images.githubusercontent.com/115694318/233365108-8bea48a4-ead5-4229-ae4f-c7713b259849.png)
 
 
