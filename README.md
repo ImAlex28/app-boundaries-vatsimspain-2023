@@ -50,6 +50,8 @@ Sector:
 geoJSON.io check:
 ![image](https://user-images.githubusercontent.com/115694318/233354380-fe15da51-8e23-48e2-8f1a-dede835b0d45.png)
 
+## OVERVIEW OF ALL JSON on geoJSON.io
+![image](https://user-images.githubusercontent.com/115694318/233358827-da87cc1b-bc47-44aa-9ae4-ae350bb2e14a.png)
 
 
 
