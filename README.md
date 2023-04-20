@@ -91,7 +91,7 @@ This repository is not official, nor is it associated with the staff of VATSIM S
 
 
 
-![image](https://user-images.githubusercontent.com/115694318/233370572-edb59211-b264-4489-bdec-6f73c1c05155.png) Commited under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
  
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
