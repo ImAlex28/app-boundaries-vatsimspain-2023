@@ -7,6 +7,10 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233064619-cb3a3fbf-c62c-4d2d-9c34-d1d241792c34.png)
 
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233356044-3573e61c-c43d-49ed-be5c-90e1b26acb6d.png)
+
+
 ## LEST_APP (Santiago Approach) [FINISHED]
 
 Sector representated:
@@ -18,7 +22,7 @@ Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233068282-eb4bfef3-be97-4230-ab41-7bd49b7d2e23.png)
 
 geoJSON.io check:
-![image](https://user-images.githubusercontent.com/115694318/233352465-f31c99a9-c511-4301-a90f-5856b41afac3.png)
+![image](https://user-images.githubusercontent.com/115694318/233356198-dda7d062-9988-42c2-8658-ce6cd6dc6643.png)
 
 ## LELC_APP (San Javier Approach) [FINISHED]
 
@@ -31,7 +35,7 @@ Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233182465-39cb473b-83da-4ba2-9caa-1b326ffc2452.png)
 
 geoJSON.io check:
-![image](https://user-images.githubusercontent.com/115694318/233351790-cde1816a-4bbc-4f35-b619-29f7f4d6b7a2.png)
+![image](https://user-images.githubusercontent.com/115694318/233356269-2ad6a332-447f-4cef-a131-a9980ea76e3c.png)
 
 
 ## LEBZ_APP (Talavera Approach) [FINISHED]
