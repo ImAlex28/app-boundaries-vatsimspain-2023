@@ -16,6 +16,10 @@ geoJSON.io check:
 Sector representated:
 ![image](https://user-images.githubusercontent.com/115694318/233168751-8641a727-2d17-4f1f-96a7-c89414ffe8ee.png)
 
+geoJSON.io check:
+![image](https://user-images.githubusercontent.com/115694318/233358330-13f0d0da-586a-470b-b45a-5db5ae698969.png)
+
+
 ## LEAB_APP (Albacete Approach) [FINISHED]
 
 Sector: 
