@@ -60,11 +60,11 @@ Sector:
 ![image](https://user-images.githubusercontent.com/115694318/233360173-734d19b5-2545-4b68-904a-05c4e62e6085.png)
 
 geoJSON.io check:
-![image](https://user-images.githubusercontent.com/115694318/233363607-02a6db62-8b92-488c-98e7-35b9aaa9ae1d.png)
+![image](https://user-images.githubusercontent.com/115694318/233365015-327a25df-d967-472a-a23a-ec0681a036e8.png)
 
 
 ## OVERVIEW OF ALL JSON on geoJSON.io
-![image](https://user-images.githubusercontent.com/115694318/233363789-deafc649-b757-41bf-9eea-3a5f27a971bd.png)
+![image](https://user-images.githubusercontent.com/115694318/233365108-8bea48a4-ead5-4229-ae4f-c7713b259849.png)
 
 
 
