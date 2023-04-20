@@ -78,8 +78,8 @@ All data on sectors (volumes, call signs, coordinates, etc.) have been obtained 
 # Disclaimer
 This repository is not official, nor is it associated with the staff of VATSIM Spain in any way. This repository have been made by a user of VATSIM Spain, with the aim of contributing to the division (CID: 1558357).
 
-![image](https://user-images.githubusercontent.com/115694318/233370572-edb59211-b264-4489-bdec-6f73c1c05155.png)
-
+![image](https://user-images.githubusercontent.com/115694318/233370572-edb59211-b264-4489-bdec-6f73c1c05155.png) Commited under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+ 
 
 
 
