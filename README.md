@@ -19,10 +19,10 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 ## LEZL_*_APP (Sevilla Approach)
 
 Sector:
-![image](https://user-images.githubusercontent.com/115694318/233064619-cb3a3fbf-c62c-4d2d-9c34-d1d241792c34.png)
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/e64d4004-1413-4de8-a90b-8e9e25a72d99)
 
 geoJSON.io check:
-![image](https://user-images.githubusercontent.com/115694318/233356044-3573e61c-c43d-49ed-be5c-90e1b26acb6d.png)
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/af2dcf5b-4a7a-4a7e-8ee0-3d7a71a03c48)
 
 
 ## LEST_APP (Santiago Approach)
