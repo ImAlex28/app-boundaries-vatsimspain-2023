@@ -1,12 +1,17 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
+  "type": "Feature",
+  "properties": {
+    "id": "LEMG",
+    "prefix": [
+      "LEMG"
+    ],
+    "name": "Malaga Approach"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
                         [
                             -5.100555556388761,
                             37.38333333296305
@@ -94,13 +99,9 @@
                         [
                             -5.100555556388761,
                             37.38333333296305
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "IDENT_TXT": "LEMGALL"
-            }
-        }
+                       ]
+        ]
+      ]
     ]
+  }
 }
