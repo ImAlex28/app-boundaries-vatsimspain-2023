@@ -1,5 +1,5 @@
-# APP SECTORS BOUNDARIES UPDATE - VATSPA vACC [UNOFFICIAL]
-Here are the files of the VATSPA APP sectors that were not already uploaded to the simaware.ca database.
+# APP SECTORS BOUNDARIES UPDATE - VATSIM Spain vACC
+Here are the files of the Vatsim spain APP sectors that were not already uploaded to the simaware.ca database.
 
 # CONFIGURED SECTORS
 ## LECB
