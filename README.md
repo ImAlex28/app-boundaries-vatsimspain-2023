@@ -90,12 +90,20 @@ geoJSON.io check:
 Sector:
 ![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/db6ec17c-637d-4cf2-a87a-b2152bf32bc5)
 geoJSON.io check:
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/0672420f-4baa-4edc-9bc5-04974f95046e)
+
+## GCTS_APP (Tenerife Sur Approach)
+
+Sector:
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/c2e36c73-dfb4-4fa7-81aa-217b718d737e)
+geoJSON.io check:
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/c21267ee-51e7-4755-9ce9-abdda6bcf625)
 
 
 
 
 
-# Overview in geoJSON.io
+# Overview in geoJSON.io (OUTDATED)
 ![image](https://user-images.githubusercontent.com/115694318/233420061-d70253bb-9a21-4a71-92f7-12fadcc0d60d.png)
 
 
