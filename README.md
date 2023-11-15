@@ -15,6 +15,9 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 - LEZG_APP
 - LEZL_*_APT
 
+## GCCC
+- GCTS_APP
+
 # DETAILS
 
 ## LEZL_*_APP (Sevilla Approach)
