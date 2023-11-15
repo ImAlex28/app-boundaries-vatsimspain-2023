@@ -8,6 +8,7 @@ Here are the files of the VATSPA APP sectors that were not already uploaded to t
 ## LECM
 - LEAB_APP
 - LEBZ_APP
+- LEMG_APP
 - LEST_APP
 - LETO_APP
 - LEXJ_APP
@@ -83,6 +84,14 @@ Sector:
 
 geoJSON.io check:
 ![image](https://user-images.githubusercontent.com/115694318/233403945-4d67738b-8892-4ee3-9420-1d837742d88d.png)
+
+## LEMG_APP (Málaga Approach)
+
+Sector:
+![image](https://github.com/ImAlex28/app-boundaries-vatspa-2023/assets/115694318/db6ec17c-637d-4cf2-a87a-b2152bf32bc5)
+geoJSON.io check:
+
+
 
 
 
